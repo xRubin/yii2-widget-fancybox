@@ -1,0 +1,25 @@
+{
+  "name": "rubin/yii2-widget-fancybox",
+  "description": "Fancybox widget for Yii2",
+  "keywords": [
+    "yii2",
+    "widget",
+    "fancybox"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roman Shashurin",
+      "email": "dalamar84@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "rubin\\yii2\\widget\\fancybox\\": "src/"
+    }
+  }
+}
